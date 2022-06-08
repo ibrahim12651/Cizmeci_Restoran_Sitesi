@@ -1,0 +1,317 @@
+.menu ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 5px 0px;
+    margin: 0px 30px;
+    font-weight: bolder;
+    width: 250px;
+    position: relative;
+    left: 450px;
+    z-index: 1;
+}
+.menu ul li a{
+    color:rgb(0, 0, 0);
+
+    text-decoration: none;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+.bannerimage{
+    position: absolute;
+    top: -5px;
+    left: -10px;
+}
+.iletisim_formu{
+    position: relative;
+    top: 282px;
+    left: 750px;
+    width: 10px;
+}
+
+#iletisim_forum2{
+    position: absolute;
+    top: 120px;
+    left: -350px;
+    width: 850px;
+}
+
+#sumbit_{
+    border: 1px solid red;
+    position: relative;
+    left:120px;
+    top: 10px;
+    height: 46px;
+    width: 194px;
+}
+#sumbit_:hover{
+    background-color: bisque;
+}
+#resim2{
+    height:650px; 
+    width:1913px;
+}
+/**        Fırsat Ürünü     **/
+#firsat_resim{
+    border: 1px solid red;
+    width: 250px;
+    height: 150px;
+    position: absolute;
+    top: 696px;
+    left: 115px;
+}
+#fırsat_baslik{
+    position: absolute;
+    top: 639px;
+    left: 100px;
+    z-index: 1;
+}
+#firsat_urunu{
+    position: relative;
+    top: 771px;
+    left: 160px;
+    width: 300px;
+}
+#durum_button{
+    position: relative;
+    top: 760px;
+    left: 138px;
+}
+
+/**        Fırsat Ürünü   2   **/
+#firsat_resim_2{
+    border: 1px solid red;
+    width: 250px;
+    height: 150px;
+    position: absolute;
+    top: 696px;
+    left: 1500px;
+}
+#fırsat_baslik_2{
+    position: absolute;
+    top: 639px;
+    left: 1480px;
+    z-index: 1;
+}
+#firsat_urunu_2{
+    position: relative;
+    top: 665px;
+    left: 1540px;
+    width: 300px;
+}
+#durum_button_2{
+    position: relative;
+    top: 665px;
+    left: 1550px;
+}
+@media only screen and (max-width: 1366px) {
+    .menu ul li{
+        list-style-type: none;
+        display: inline-block;
+        padding: 5px 0px;
+        margin: 0px 40px;
+        font-weight: bolder;
+        width: 174px;
+        position: relative;
+        left: 170px;
+        z-index: 1;
+    }
+    .menu ul li a{
+        color:rgb(0, 0, 0);
+    
+        text-decoration: none;
+        font-size: 30px;
+        text-align: center;
+        font-family: 'Oswald', sans-serif;
+    }
+    .bannerimage{
+        position: absolute;
+        top: -5px;
+        left: -10px;
+    }
+    #resim2{
+        height:550px; 
+        width: 1364px;
+    }
+    .iletisim_formu{
+        position: relative;
+        top: 190px;
+        left: 450px;
+        width: 10px;
+    }
+    #sumbit_{
+        border: 1px solid red;
+        position: relative;
+        left:120px;
+        top: 10px;
+        height: 46px;
+        width: 194px;
+    }
+    #sumbit_:hover{
+        background-color: bisque;
+    }
+        /**        Fırsat Ürünü     **/
+    #firsat_resim{
+        border: 1px solid red;
+        width: 250px;
+        height: 150px;
+        position: absolute;
+        top: 696px;
+        left: 115px;
+    }
+    #fırsat_baslik{
+        position: absolute;
+        top: 639px;
+        font-size: 25px;
+        left: 100px;
+        z-index: 1;
+    }
+    #firsat_urunu{
+        position: relative;
+        top: 771px;
+        left: 160px;
+        width: 300px;
+    }
+    #durum_button{
+        position: relative;
+        top: 760px;
+        left: 138px;
+    }
+
+    /**        Fırsat Ürünü   2   **/
+    #firsat_resim_2{
+        border: 1px solid red;
+        width: 250px;
+        height: 150px;
+        position: absolute;
+        top: 696px;
+        left: 1000px;
+    }
+    #fırsat_baslik_2{
+        position: absolute;
+        top: 639px;
+        left: 970px;
+        font-size: 25px;
+        z-index: 1;
+    }
+    #firsat_urunu_2{
+        position: relative;
+        top: 665px;
+        left: 1020px;
+        width: 250px;
+    }
+    #durum_button_2{
+        position: relative;
+        top: 665px;
+        left: 1030px;
+    }    
+}
+@media only screen and (max-width: 1280px) {
+    .menu ul li{
+        list-style-type: none;
+        display: inline-block;
+        padding: 5px 0px;
+        margin: 0px 30px;
+        font-weight: bolder;
+        width: 174px;
+        position: relative;
+        left: 213px;
+        z-index: 1;
+    }
+    .menu ul li a{
+        color:rgb(0, 0, 0);
+    
+        text-decoration: none;
+        font-size: 30px;
+        text-align: center;
+        font-family: 'Oswald', sans-serif;
+    }
+    .bannerimage{
+        position: absolute;
+        top: -5px;
+        left: -10px;
+    }
+    #resim2{
+        height:600px; 
+        width: 1273px;
+    }
+
+    .iletisim_formu{
+        position: relative;
+        top: 278px;
+        left: 450px;
+        width: 10px;
+    }
+    #sumbit_{
+        border: 1px solid red;
+        position: relative;
+        left:120px;
+        top: 10px;
+        height: 46px;
+        width: 194px;
+    }
+    #sumbit_:hover{
+        background-color: bisque;
+    }
+    /**        Fırsat Ürünü     **/
+    #firsat_resim{
+        border: 1px solid red;
+        width: 250px;
+        height: 150px;
+        position: absolute;
+        top: 696px;
+        left: 115px;
+    }
+    #fırsat_baslik{
+        position: absolute;
+        top: 639px;
+        left: 100px;
+        z-index: 1;
+    }
+    #firsat_urunu{
+        position: relative;
+        top: 771px;
+        left: 160px;
+        width: 300px;
+    }
+    #durum_button{
+        position: relative;
+        top: 760px;
+        left: 138px;
+    }
+
+    /**        Fırsat Ürünü   2   **/
+    #firsat_urun_2{
+        position: relative;
+        left:-10px;
+
+    }
+    #fırsat_baslik_2{
+        position: absolute;
+        top: 450px;
+        left: 950px;
+        z-index: 1;
+    }
+
+    #firsat_resim_2{        
+        border: 1px solid red;
+        width: 250px;
+        height: 150px;
+        position: absolute;       
+        top: 505px;
+        left: 980px;
+    }
+
+
+    #firsat_urunu_2{
+        position: relative;
+        top: 670px;
+        left: 1005px;
+    }
+    #durum_button_2{        
+        position: relative;
+        top: 660px;
+        left: 1010px;
+        
+    }
+}

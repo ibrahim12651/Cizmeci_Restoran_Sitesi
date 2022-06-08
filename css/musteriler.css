@@ -1,0 +1,246 @@
+#degerlendirmesi{
+    position: absolute;
+    top: 1250px;
+    left: 900px;
+}
+#musteri_1{
+    position: absolute;
+    top: 1350px;
+    left: 175px;    
+}
+#musteri_1_metin{
+    position: relative;
+    width: 300px;
+    left: -75px;
+    text-align: center;
+}
+#musteri_2{
+    position: absolute;
+    top: 1350px;
+    left: 600px;    
+}
+#musteri_2_metin{
+    position: absolute;
+    width: 300px;
+    left: -75px;
+    top: 200px;
+    text-align: center;
+}
+#musteri_2_isim{
+    position: relative;
+    left: -12px;
+}
+#musteri_3{
+    position: absolute;
+    top: 1350px;
+    left: 1000px;    
+}
+#musteri_3_metin{
+    position: absolute;
+    width: 300px;
+    left: -75px;
+    top: 200px;
+    text-align: center;
+}
+#musteri_3_isim{
+    position: relative;
+    left: -12px;
+}
+#musteri_4{
+    position: absolute;
+    top: 1350px;
+    left: 1350px;    
+}
+#musteri_4_metin{
+    position: absolute;
+    width: 300px;
+    left: -75px;
+    top: 200px;
+    text-align: center;
+}
+#musteri_4_isim{
+    position: relative;
+    left: -12px;
+}
+#musteri_5{
+    position: absolute;
+    top: 1350px;
+    left: 1650px;    
+}
+#musteri_5_metin{
+    position: absolute;
+    width: 300px;
+    left: -75px;
+    top: 200px;
+    text-align: center;
+}
+#musteri_5_isim{
+    position: relative;
+    left: -12px;
+}
+@media only screen and (max-width: 1366px) {
+    #degerlendirmesi{
+        position: absolute;
+        top: 1250px;
+        left: 520px;
+    }
+    #musteri_1{
+        position: absolute;
+        top: 1350px;
+        left: 180px;    
+    }
+    #musteri_1_metin{
+        position: relative;
+        width: 300px;
+        left: -75px;
+        text-align: center;
+    }
+    #musteri_2{
+        position: absolute;
+        top: 1652px;
+        left: 850px;    
+    }
+    #musteri_2_metin{
+        position: absolute;
+        width: 300px;
+        left: -75px;
+        top: 200px;
+        text-align: center;
+    }
+    #musteri_2_isim{
+        position: relative;
+        left: -12px;
+    }
+    #musteri_3{
+        position: absolute;
+        top: 1350px;
+        left: 580px;    
+    }
+    #musteri_3_metin{
+        position: absolute;
+        width: 300px;
+        left: -75px;
+        top: 200px;
+        text-align: center;
+    }
+    #musteri_3_isim{
+        position: relative;
+        left: -20px;
+    }
+    #musteri_4{
+        position: absolute;
+        top: 1350px;
+        left: 1010px;    
+    }
+    #musteri_4_metin{
+        position: absolute;
+        width: 300px;
+        left: -75px;
+        top: 200px;
+        text-align: center;
+    }
+    #musteri_4_isim{
+        position: relative;
+        left: -12px;
+    }
+    #musteri_5{
+        position: absolute;
+        top: 1652px;
+        left: 365px;    
+    }
+    #musteri_5_metin{
+        position: absolute;
+        width: 300px;
+        left: -75px;
+        top: 200px;
+        text-align: center;
+    }
+    #musteri_5_isim{
+        position: relative;
+        left: -12px;
+    }
+
+}
+@media only screen and (max-width: 1280px) {
+    #degerlendirmesi{
+        position: absolute;
+        top: 1250px;
+        left: 540px;
+    }
+    #musteri_1{
+        position: absolute;
+        top: 1350px;
+        left: 180px;    
+    }
+    #musteri_1_metin{
+        position: relative;
+        width: 300px;
+        left: -75px;
+        text-align: center;
+    }
+    #musteri_2{
+        position: absolute;
+        top: 1652px;
+        left: 850px;    
+    }
+    #musteri_2_metin{
+        position: absolute;
+        width: 300px;
+        left: -75px;
+        top: 200px;
+        text-align: center;
+    }
+    #musteri_2_isim{
+        position: relative;
+        left: -12px;
+    }
+    #musteri_3{
+        position: absolute;
+        top: 1350px;
+        left: 580px;    
+    }
+    #musteri_3_metin{
+        position: absolute;
+        width: 300px;
+        left: -75px;
+        top: 200px;
+        text-align: center;
+    }
+    #musteri_3_isim{
+        position: relative;
+        left: -20px;
+    }
+    #musteri_4{
+        position: absolute;
+        top: 1350px;
+        left: 1010px;    
+    }
+    #musteri_4_metin{
+        position: absolute;
+        width: 300px;
+        left: -75px;
+        top: 200px;
+        text-align: center;
+    }
+    #musteri_4_isim{
+        position: relative;
+        left: -12px;
+    }
+    #musteri_5{
+        position: absolute;
+        top: 1652px;
+        left: 365px;    
+    }
+    #musteri_5_metin{
+        position: absolute;
+        width: 300px;
+        left: -75px;
+        top: 200px;
+        text-align: center;
+    }
+    #musteri_5_isim{
+        position: relative;
+        left: -12px;
+    }
+
+}
